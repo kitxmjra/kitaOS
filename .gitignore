@@ -53,3 +53,13 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# OSDev specific
+*.iso
+*.img
+*.bin
+*.elf
+build/
+iso/
+disk.img
+
