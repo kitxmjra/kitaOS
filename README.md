@@ -7,6 +7,8 @@
 This project is the intellectual property of the author.  
 Any copying, distribution or modification without the written permission of the author is prohibited.
 
+##
+
 A minimal x86 kernel with a simple filesystem and command-line interface.  
 Built from scratch as a learning project and for portfolio.
 
