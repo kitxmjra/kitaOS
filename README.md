@@ -1,5 +1,9 @@
 # kitaOS
 
+## update by 24.02
+
+I was tired, and this project was stopped until I read the book "The C Programming Language".
+
 ## Copyright
 
 © 2026 [Kitamyra]. All rights reserved.
