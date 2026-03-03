@@ -15,8 +15,8 @@ Built from scratch as a learning project and for portfolio.
 ## Features (so far)
 - [x] Bootloader (Multiboot-compliant)
 - [x] VGA text output
-- [ ] Keyboard input
-- [ ] Basic shell
+- [x] Keyboard input
+- [x] Basic shell
 - [ ] Simple filesystem (initramfs)
 - [ ] ISO image generation
 
